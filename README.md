@@ -1,5 +1,7 @@
 # PHP-Dir-Lister
 
+![Screenshot](/screenshot.png)
+
 You should be able to figure out what this does
 It lists directories in PHP
 
