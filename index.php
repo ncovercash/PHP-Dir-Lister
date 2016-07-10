@@ -12,4 +12,3 @@ foreach ($files2 as &$value) {
 		}
 	}
 }
-?> 
