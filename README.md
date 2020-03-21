@@ -2,8 +2,9 @@
 
 ![Screenshot](/screenshot.png)
 
-You should be able to figure out what this does
-It lists directories in PHP
+Simple script, just lists directories in PHP.
+
+No guarantees of any kinds of security, accuracy, ability to not break, etc.
 
 # Installation/Implementation
 
